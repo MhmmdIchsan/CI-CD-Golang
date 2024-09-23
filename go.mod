@@ -1,3 +1,3 @@
 module github.com/MhmmdIchsan/CI-CD-Golang.git
 
-go 1.23.1
+go 1.23
